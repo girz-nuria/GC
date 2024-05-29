@@ -1,0 +1,10 @@
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.Properties.Resources.resources
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.csproj.GenerateResource.cache
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\bin\Debug\seminar7ex1.exe.config
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\bin\Debug\seminar7ex1.exe
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\bin\Debug\seminar7ex1.pdb
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.Form1.resources
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.exe
+C:\Users\girzn\Desktop\Geometrie computationala\seminar7ex1\seminar7ex1\obj\Debug\seminar7ex1.pdb
