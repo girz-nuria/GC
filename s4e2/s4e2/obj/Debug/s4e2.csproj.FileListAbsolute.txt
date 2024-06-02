@@ -1,0 +1,20 @@
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.csproj.AssemblyReference.cache
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.Form1.resources
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.Properties.Resources.resources
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.csproj.GenerateResource.cache
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.csproj.CoreCompileInputs.cache
+D:\geometrie computationala\s4ex2\s4e2\s4e2\bin\Debug\s4e2.exe.config
+D:\geometrie computationala\s4ex2\s4e2\s4e2\bin\Debug\s4e2.exe
+D:\geometrie computationala\s4ex2\s4e2\s4e2\bin\Debug\s4e2.pdb
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.exe
+D:\geometrie computationala\s4ex2\s4e2\s4e2\obj\Debug\s4e2.pdb
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\bin\Debug\s4e2.exe.config
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\bin\Debug\s4e2.exe
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\bin\Debug\s4e2.pdb
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.Form1.resources
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.Properties.Resources.resources
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.csproj.GenerateResource.cache
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.exe
+C:\Users\girzn\Desktop\gc\s4e2\s4e2\obj\Debug\s4e2.pdb

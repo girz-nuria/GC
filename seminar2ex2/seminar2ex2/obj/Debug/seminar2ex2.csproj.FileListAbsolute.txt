@@ -1,0 +1,20 @@
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.exe.config
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.exe
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.pdb
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.Form1.resources
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.Properties.Resources.resources
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.GenerateResource.cache
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.exe
+C:\Users\popad\OneDrive\Desktop\geometrie computationala\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.pdb
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.exe.config
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.exe
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.pdb
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.Form1.resources
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.Properties.Resources.resources
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.GenerateResource.cache
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.exe
+C:\Users\girzn\Desktop\gc\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.pdb
